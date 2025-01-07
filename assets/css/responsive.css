@@ -1,0 +1,157 @@
+/* 1024 */
+
+
+@media screen and (max-width:1024px){
+    .story-div.row-2 p {
+        font-size: 12px;
+}
+.story-div.row-1 p {
+    color: #7e7f82;
+    font-size: 12px;
+}
+}
+
+
+/* 991 */
+
+@media screen and (max-width:991px){
+
+    .story-div.row-1{
+        margin-top: 20px;
+    }
+
+    .story-div{
+        height: 200px;
+    }
+
+    .story-img img{
+        height: 410px;
+    }
+
+    #navbarSupportedContent{
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .d-flex.left-content{
+        display: none !important;
+    }
+
+    .ms-auto.right-content{
+        margin-left: 0 !important;
+    }
+
+    .top-nav .container > .d-flex{
+        justify-content: center;
+    }
+
+    .carousel-caption h1 {
+        font-size: 35px;
+    }
+
+    .carousel-caption p {
+        font-size: 14px;
+    }
+
+    .carousel-caption {
+        bottom: -4% !important;
+    }
+
+    .carousel-inner.carousel-control-next, .carousel-inner.carousel-control-prev  {
+        align-items: start;
+        top: 30% !important;
+    }
+
+    .banner .carousel-item {
+        height: 70vh;
+    }
+
+    .call-to-action h1 {
+        font-size: 30px;
+    }
+
+    .cta-left-con p {
+        font-size: 14px;
+    }
+
+    .cta-btn button{
+        font-size: 12px;
+    }
+
+    .founder-img img {
+        height: 320px;
+    }
+
+    .founder-content{
+        padding-top: 0;
+    }
+    
+    .founder-content h2 {
+        font-size: 32px;
+    }
+    .founder-content p {
+        font-size: 14px;
+    }
+
+    .founder-social i{
+        font-size: 12px;
+    }
+}
+
+
+
+/* 767 */
+
+@media screen and (max-width:567px){
+    /* .footer-logo{
+        text-align: center !important;
+    } */
+
+    /* .other-foot{
+        text-align: center !important;
+    }
+
+    .quick-l-div{
+        text-align: center;
+    }
+    .contact-i-div{
+        text-align: center;
+    }
+
+    .left-txt{
+        justify-content: center;
+    } */
+
+    .carousel-caption p {
+        font-size: 9px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 22px;
+    }
+
+    .banner .carousel-item {
+        height: 43vh;
+    }
+
+    .story {
+        padding: 70px 20px;
+    }
+
+    .story-div {
+        height: 250px;
+    }
+
+    .story-div.row-2{
+        margin-top: 25px;
+    }
+
+    .story-div.row-1 {
+        margin-bottom: 10px;
+    }
+
+    .call-to-action{
+        display: none;
+    }
+
+}
